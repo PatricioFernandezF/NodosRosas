@@ -14,7 +14,7 @@ public class Principal {
 		int contador=f.contarclave();
 		
 		System.out.println("El contador aparece "+contador+" veces");
-		
+		System.out.println("Hola git");
 		 
 		
 	}
